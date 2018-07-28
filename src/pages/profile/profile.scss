@@ -5,15 +5,24 @@ profile-page {
         width: 100px;
         background-color: #1CA6C9;
         border-radius: 50%;
-        float: left;
-        margin-right: 300px;
+        float: left;    
     }
 
     .favorite-team {
+        
         height: 100px;
         width: 100px;
         background-color: #1CA6C9;
         border-radius: 50%;
         float: right;
+    }
+
+    .profile-card {
+        height: 500px;
+    }
+
+    .user-icon {
+        color: #1CA6C9;
+        font-size: 75px;
     }
 }
