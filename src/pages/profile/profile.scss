@@ -1,3 +1,19 @@
 profile-page {
 
+    .overall-rank {
+        height: 100px;
+        width: 100px;
+        background-color: #1CA6C9;
+        border-radius: 50%;
+        float: left;
+        margin-right: 300px;
+    }
+
+    .favorite-team {
+        height: 100px;
+        width: 100px;
+        background-color: #1CA6C9;
+        border-radius: 50%;
+        float: right;
+    }
 }
